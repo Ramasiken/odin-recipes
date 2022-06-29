@@ -1,0 +1,41 @@
+.lasagna{
+    color: black;
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.header1{
+    
+    background-color: rgb(102, 102, 226);
+    text-align: initial;
+}
+
+.hamburger{
+    color: black;
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.header2{
+    
+    background-color: rgb(102, 102, 226);
+    text-align: center;
+}
+
+.hotdog{
+    color: black;
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.header3{
+    
+    background-color: rgb(102, 102, 226);
+    text-align: end;
+}
